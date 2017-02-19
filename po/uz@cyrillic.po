@@ -8,6 +8,7 @@ msgstr ""
 "PO-Revision-Date: 2010-01-12 13:40+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: American English <mavnur@gmail.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,7 +36,8 @@ msgid "Continue"
 msgstr "Давом этиш"
 
 #. txt_linux
-msgid "Boot Mandriva Linux 2013"
+#, fuzzy
+msgid "Boot Moondrake GNU/Linux 2017 1/3"
 msgstr "Mandriva Linux 2013'ни юклаш"
 
 #. txt_windows
@@ -52,7 +54,8 @@ msgid "Linux with kernel %s"
 msgstr "%s кернелли Linux"
 
 #. txt_install
-msgid "Install Mandriva Linux 2013"
+#, fuzzy
+msgid "Install Moondrake GNU/Linux 2017 1/3"
 msgstr "Mandriva Linux 2013 тизимини ўрнатиш"
 
 #. txt_manual_install
@@ -68,7 +71,8 @@ msgid "Installation--Safe Settings"
 msgstr "Ўрнатиш --Safe мосламалари"
 
 #. txt_safe_linux
-msgid "Boot Mandriva Linux 2013 (safe mode)"
+#, fuzzy
+msgid "Boot Moondrake GNU/Linux 2017 1/3 (safe mode)"
 msgstr "Mandriva Linux 2013'ни юклаш (хавфсиз усул)"
 
 #. txt_boot_harddisk
@@ -348,7 +352,6 @@ msgid "Firmware Test"
 msgstr "Микродастурий таъминотни (firmware) текшириш"
 
 #. txt_dud_file_msg
-#, wrap
 msgid ""
 "To load driver updates directly from CD-ROM,\n"
 "enter the driver update file names (separated\n"
@@ -444,7 +447,8 @@ msgstr "Хато архитектура"
 
 #. warning when running a 64bit CD on a 32bit machine
 #. txt_64bit_popup
-msgid "This is a 32-bit computer. You cannot use or install 64-bit software on it."
+msgid ""
+"This is a 32-bit computer. You cannot use or install 64-bit software on it."
 msgstr ""
 "Бу 32-битли компьютер. Ушбу компьютерда 64-битли дастурий таъминотни ўрната "
 "олмайсиз."
@@ -462,8 +466,12 @@ msgstr "Сиз 64-битли компьютерга 32-битли дастури
 #. insert CDROM with drivers
 #. txt_insert_driver_cd
 #, c-format
-msgid "Insert driver update CD-ROM for\n\"%s\"."
-msgstr "\"%s\" учун драйвер янгилаш дискини \n қўйинг."
+msgid ""
+"Insert driver update CD-ROM for\n"
+"\"%s\"."
+msgstr ""
+"\"%s\" учун драйвер янгилаш дискини \n"
+" қўйинг."
 
 #. insert Mandriva CD back
 #. txt_insert_mdv_cd
@@ -474,5 +482,3 @@ msgstr "Mandriva Linux CD-ROM дискини ускунага қўйинг."
 #. txt_restore
 msgid "Restore draksnapshot backup"
 msgstr "draksnapshot заҳира нусхасини тиклаш"
-
-

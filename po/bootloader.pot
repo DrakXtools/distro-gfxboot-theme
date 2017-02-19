@@ -32,7 +32,7 @@ msgid "Continue"
 msgstr ""
 
 #. txt_linux
-msgid "Boot Mandriva Linux 2013"
+msgid "Boot Moondrake GNU/Linux 2017 1/3"
 msgstr ""
 
 #. txt_windows
@@ -49,7 +49,7 @@ msgid "Linux with kernel %s"
 msgstr ""
 
 #. txt_install
-msgid "Install Mandriva Linux 2013"
+msgid "Install Moondrake GNU/Linux 2017 1/3"
 msgstr ""
 
 #. txt_manual_install
@@ -65,7 +65,7 @@ msgid "Installation--Safe Settings"
 msgstr ""
 
 #. txt_safe_linux
-msgid "Boot Mandriva Linux 2013 (safe mode)"
+msgid "Boot Moondrake GNU/Linux 2017 1/3 (safe mode)"
 msgstr ""
 
 #. txt_boot_harddisk

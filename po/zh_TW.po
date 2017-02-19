@@ -7,6 +7,7 @@ msgstr ""
 "PO-Revision-Date: 2008-05-13 22:16+0800\n"
 "Last-Translator: swyear <swyear@gmail.com>\n"
 "Language-Team: Chinese Traditional <zh@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,7 +34,8 @@ msgid "Continue"
 msgstr "繼續"
 
 #. txt_linux
-msgid "Boot Mandriva Linux 2013"
+#, fuzzy
+msgid "Boot Moondrake GNU/Linux 2017 1/3"
 msgstr "啟動 Mandriva Linux 2013"
 
 #. txt_windows
@@ -50,7 +52,8 @@ msgid "Linux with kernel %s"
 msgstr "核心 %s 的 Linux"
 
 #. txt_install
-msgid "Install Mandriva Linux 2013"
+#, fuzzy
+msgid "Install Moondrake GNU/Linux 2017 1/3"
 msgstr "安裝 Mandriva Linux 2013"
 
 #. txt_manual_install
@@ -66,7 +69,8 @@ msgid "Installation--Safe Settings"
 msgstr "安裝 -- 安全設定"
 
 #. txt_safe_linux
-msgid "Boot Mandriva Linux 2013 (safe mode)"
+#, fuzzy
+msgid "Boot Moondrake GNU/Linux 2017 1/3 (safe mode)"
 msgstr "啟動 Mandriva Linux 2013 (安全模式)"
 
 #. txt_boot_harddisk

@@ -9,6 +9,7 @@ msgstr ""
 "PO-Revision-Date: 2009-12-25 22:10+0600\n"
 "Last-Translator: Ilyas Bakirov <just_ilyas@yahoo.com>\n"
 "Language-Team: Kirghiz <just_ilyas@yahoo.com>\n"
+"Language: ky\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -38,7 +39,8 @@ msgid "Continue"
 msgstr "Улантуу"
 
 #. txt_linux
-msgid "Boot Mandriva Linux 2013"
+#, fuzzy
+msgid "Boot Moondrake GNU/Linux 2017 1/3"
 msgstr "Mandriva Linux 2013 жүктөө"
 
 #. txt_windows
@@ -55,7 +57,8 @@ msgid "Linux with kernel %s"
 msgstr "Linux %s ядросу менен"
 
 #. txt_install
-msgid "Install Mandriva Linux 2013"
+#, fuzzy
+msgid "Install Moondrake GNU/Linux 2017 1/3"
 msgstr "Mandriva Linux 2013 орнотуу"
 
 #. txt_manual_install
@@ -71,7 +74,8 @@ msgid "Installation--Safe Settings"
 msgstr "Орнотуу--Коопсуз ырастоолор"
 
 #. txt_safe_linux
-msgid "Boot Mandriva Linux 2013 (safe mode)"
+#, fuzzy
+msgid "Boot Moondrake GNU/Linux 2017 1/3 (safe mode)"
 msgstr "Mandriva Linux 2013 жүктөө (коопсуз режими)"
 
 #. txt_boot_harddisk
@@ -472,8 +476,10 @@ msgstr "Архитектура туура эмес"
 
 #. warning when running a 64bit CD on a 32bit machine
 #. txt_64bit_popup
-msgid "This is a 32-bit computer. You cannot use or install 64-bit software on it."
-msgstr "Бул 32-бит компьютер. Сиз 64-бит программаларды колдоно же орното албайсыз."
+msgid ""
+"This is a 32-bit computer. You cannot use or install 64-bit software on it."
+msgstr ""
+"Бул 32-бит компьютер. Сиз 64-бит программаларды колдоно же орното албайсыз."
 
 #. title of warning box when running a 32bit CD on a 64bit machine
 #. txt_warning
@@ -504,4 +510,3 @@ msgstr "Mandriva Linux дискин кайра коюңуз."
 #. txt_restore
 msgid "Restore draksnapshot backup"
 msgstr "draksnapshot резервдик копиядан калыбына келтирүү"
-
