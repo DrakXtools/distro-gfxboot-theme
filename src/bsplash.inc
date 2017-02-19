@@ -211,7 +211,7 @@
 
   /b2_ok false def
 
-  /b2_text "mandriva.pcx" readimage def
+  /b2_text "moondrake.pcx" readimage def
   % /b2_spot "spotlite.jpg" readimage def
 
   b2_text .undef eq { return } if
