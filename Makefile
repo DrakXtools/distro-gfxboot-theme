@@ -105,4 +105,5 @@ dist-svn:
 	rm -rf $(NAME)-$(VERSION)
 
 dist-git:
-	@git archive --prefix=$(NAME)-$(VERSION)/ HEAD | xz > $(NAME)-$(VERSION).tar.xz;	
+	@git tag v$(VERSION)
+	@git archive --prefix=$(NAME)-$(VERSION)/ v$(VERSION) | xz > $(NAME)-$(VERSION).tar.xz
