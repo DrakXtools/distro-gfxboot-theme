@@ -82,7 +82,7 @@ ifneq ($(BASED_ON),)
 endif
 
 
-NAME = mandriva-gfxboot-theme
+NAME = distro-gfxboot-theme
 UPSTREAM_VERSION = 4.1.19
 VERSION = $(UPSTREAM_VERSION).30
 
